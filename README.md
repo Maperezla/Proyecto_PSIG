@@ -4,15 +4,15 @@
 
 ---
 
-## 📌 Introducción y motivación
+## Introducción y motivación
 
 El presente investigación tiene por objetivo calcular la biomasa aérea asociada a los diferentes tipos de cobertura presentes en el Parque Nacional Natural Amacayacu, un ecosistema estratégico de la Amazonía colombiana. Para ello, se emplean imágenes satelitales provenientes de sensores ópticos y de radar, datos LiDAR del sensor GEDI y las coberturas de MapBiomas Colombia. Lo anterior, permite mejorar la comprensión espacial de la biomasa y su relación con las coberturas del territorio.
 
-Este trabajo se postula al Premio MapBiomas Colombia por su enfoque académico riguroso y su contribución metodológica al uso innovador de datos MapBiomas, potenciados mediante herramientas de inteligencia artificial (Random Forest) y técnicas de análisis espacial reproducibles en Python.
+Este trabajo se postula al Premio MapBiomas Colombia debido a su metoculoso enfoque académico y su contribución metodológica al uso innovador de datos MapBiomas, potenciados mediante herramientas de inteligencia artificial (Random Forest) y técnicas de análisis espacial reproducibles en Python.
 
 ---
 
-## 🎯 Objetivos
+## Objetivos
 
 ### Objetivo general
 Estimar la biomasa aérea por tipo de cobertura en el Parque Nacional Natural Amacayacu a partir de la integración de imágenes satelitales (Sentinel-2, ALOS PALSAR, GEDI), modelos de elevación y coberturas de MapBiomas Colombia, mediante algoritmos de aprendizaje automático.
@@ -25,7 +25,7 @@ Estimar la biomasa aérea por tipo de cobertura en el Parque Nacional Natural Am
 
 ---
 
-## 🛠️ Tecnologías y librerías empleadas
+## Tecnologías y librerías empleadas
 
 - **Lenguaje principal:** Python 3.x  
 - **Bibliotecas clave:**
@@ -37,11 +37,11 @@ Estimar la biomasa aérea por tipo de cobertura en el Parque Nacional Natural Am
  
 ---
 
-## 📁 Estructura del repositorio
+## Estructura del repositorio
 
-📦Amacayacu_Biomasa/
+Amacayacu_Biomasa/
 
-│
+
 ├── 📂data/ # Datos de entrada (raster, vector, GEDI, MapBiomas)
 
 ├── 📂notebooks/ # Jupyter Notebooks de análisis y modelado
