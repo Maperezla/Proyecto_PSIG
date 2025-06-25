@@ -6,7 +6,7 @@
 
 ## 📌 Introducción y motivación
 
-El presente proyecto busca estimar la biomasa aérea asociada a los diferentes tipos de cobertura presentes en el Parque Nacional Natural Amacayacu, un ecosistema estratégico de la Amazonía colombiana. Para ello, se integran imágenes satelitales provenientes de sensores ópticos y de radar, datos LiDAR del sensor GEDI y las series temporales de coberturas de MapBiomas Colombia. Esta combinación permite mejorar la comprensión espacial de la biomasa y su relación con las coberturas del territorio.
+El presente investigación tiene por objetivo calcular la biomasa aérea asociada a los diferentes tipos de cobertura presentes en el Parque Nacional Natural Amacayacu, un ecosistema estratégico de la Amazonía colombiana. Para ello, se emplean imágenes satelitales provenientes de sensores ópticos y de radar, datos LiDAR del sensor GEDI y las coberturas de MapBiomas Colombia. Lo anterior, permite mejorar la comprensión espacial de la biomasa y su relación con las coberturas del territorio.
 
 Este trabajo se postula al Premio MapBiomas Colombia por su enfoque académico riguroso y su contribución metodológica al uso innovador de datos MapBiomas, potenciados mediante herramientas de inteligencia artificial (Random Forest) y técnicas de análisis espacial reproducibles en Python.
 
@@ -40,13 +40,21 @@ Estimar la biomasa aérea por tipo de cobertura en el Parque Nacional Natural Am
 ## 📁 Estructura del repositorio
 
 📦Amacayacu_Biomasa/
+
 │
 ├── 📂data/ # Datos de entrada (raster, vector, GEDI, MapBiomas)
+
 ├── 📂notebooks/ # Jupyter Notebooks de análisis y modelado
+
 ├── 📂src/ # Scripts en Python ejecutables por consola
+
 ├── 📂results/ # mapas, graficas (GeoTIFF, PNG, CSV)
+
 ├── 📂docs/ # Referencias
+
 ├── 📂presentation/ # diapostivas
+
 ├── README.md # Descripción del proyecto
+
 
 
