@@ -1,7 +1,7 @@
 # Estimación de biomasa por tipo de cobertura en el Parque Nacional Natural Amacayacu
 
 > Proyecto postulado al **Premio MapBiomas Colombia - Categoría Académica**
->> Autoras: Perez Largo Maria Paula y Veloza Martinez Paula Rocio, estudiantes de maestría en Geomatica, Universidad Nacional de Colombia
+>> Autoras: Perez Largo Maria Paula y Veloza Martinez Paula Rocio, estudiantes de maestría en Geomática, Universidad Nacional de Colombia
 ---
 
 ## Introducción y motivación
