@@ -15,7 +15,7 @@ Este trabajo se postula al Premio MapBiomas Colombia debido a su metoculoso enfo
 ## Objetivos
 
 ### Objetivo general
-Estimar la biomasa aérea por tipo de cobertura en el Parque Nacional Natural Amacayacu a partir de la integración de imágenes satelitales (Sentinel-2, ALOS PALSAR, GEDI), modelos de elevación y coberturas de MapBiomas Colombia, mediante algoritmos de aprendizaje automático.
+Estimar la biomasa aérea por tipo de cobertura en el Parque Nacional Natural Amacayacu a partir de imágenes satelitales (Sentinel-2, ALOS PALSAR, GEDI), modelos de elevación y coberturas de MapBiomas Colombia, mediante algoritmos de aprendizaje automático.
 
 ### Objetivos específicos
 1. Integrar imágenes de sensores ópticos, radar y LiDAR para caracterizar el entorno biofísico del PNN Amacayacu.
