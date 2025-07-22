@@ -84,28 +84,7 @@ Amacayacu_Biomasa/
 
 ├── 📂docs/ # Referencias
 
-
-      
-Afshari, S., Sarli, R., Alchin, A. A., Aliabad, O. G., Moradi, F., Saei, M., Lomer, A. R. B., & Nasiri, V. (2025). Trendanalysisand interactionsbetweensurfacetemperatureand vegetationcondition: divergentresponses acrossvegetationtypes. EnvironmentalMonitoringand Assessment, 197(3), 292. https://doi.org/10.1007/s10661-025-13729-9
-
-Babiy, I. A., Im, S. T., & Kharuk, V. I. (2022). Estimating Aboveground Forest Biomass Using Radar Methods. Contemporary Problems of Ecology, 15(5), 433–448. https://doi.org/10.1134/S1995425522050031
-
-Duncanson, L., Neuenschwander, A., Hancock, S., Thomas, N., Fatoyinbo, T., Simard, M., Silva, C. A., Armston, J., Luthcke, S. B., Hofton, M., Kellner, J. R., & Dubayah, R. (2020). BiomassestimationfromsimulatedGEDI, ICESat-2 and NISAR acrossenvironmentalgradientsin Sonoma County, California. Remote SensingofEnvironment, 242. https://doi.org/10.1016/j.rse.2020.111779
-
-Fernández-Guisuraga, J. M., Marcos, E., Suárez-Seoane, S., & Calvo, L. (2022). ALOS-2 L-band SAR backscatterdata improvestheestimationand temporal transferabilityofwildfireeffectsonsoilpropertiesunderdifferentpost-firevegetationresponses. ScienceoftheTotal Environment, 842. https://doi.org/10.1016/j.scitotenv.2022.156852
-
-Guo, Q., Su, Y., & Hu, T. (2023). LiDARprinciples, preocesingand aplicationsin forestecology(1st edition).
-
-Hoffrén, R., Lamelas, M. T., de la Riva, J., Domingo, D., Montealegre, A. L., García-Martín, A., & Revilla, S. (2023). AssessingGEDI-NASA systemforforestfuelsclassificationusingmachine learningtechniques. International JournalofAppliedEarthObservationand Geoinformation, 116. https://doi.org/10.1016/j.jag.2022.103175
-
-Kellner, J. R., Armston, J., & Duncanson, L. (2023). Algorithmtheoreticalbasis documentforGEDI footprintabovegroundbiomassdensity. Earthand SpaceScience, 10, e2022EA002516.https://doi.org/10.1029/2022EA002516
-
-Silva, C. A., Duncanson, L., Hancock, S., Neuenschwander, A., Thomas, N., Hofton, M., Fatoyinbo, L., Simard, M., Marshak, C. Z., Armston, J., Lutchke, S., & Dubayah, R. (2021). FusingsimulatedGEDI, ICESat-2 and NISAR data forregional abovegroundbiomassmapping. Remote SensingofEnvironment, 253. https://doi.org/10.1016/j.rse.2020.112234
-
-Yuri Shendryk, Fusing GEDI with earth observation data for large areaaboveground biomass mapping, International Journal of Applied Earth Observation and Geoinformation, Volume 115, 2022, 103108,ISSN 1569 8432, https://doi.org/10.1016/j.jag.2022.103108
-
-
-
+ 
 ├── 📂presentation/ # diapositivas
 
 
