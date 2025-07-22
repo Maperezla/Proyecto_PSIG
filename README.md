@@ -106,7 +106,7 @@ Yuri Shendryk, Fusing GEDI with earth observation data for large areaaboveground
 
 
 
-├── 📂presentation/ # diapostivas
+├── 📂presentation/ # diapositivas
 
 
 ├── README.md # Descripción del proyecto
