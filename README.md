@@ -84,6 +84,7 @@ Amacayacu_Biomasa/
 
 ├── 📂docs/ # Referencias
 
+
       
 Afshari, S., Sarli, R., Alchin, A. A., Aliabad, O. G., Moradi, F., Saei, M., Lomer, A. R. B., & Nasiri, V. (2025). Trendanalysisand interactionsbetweensurfacetemperatureand vegetationcondition: divergentresponses acrossvegetationtypes. EnvironmentalMonitoringand Assessment, 197(3), 292. https://doi.org/10.1007/s10661-025-13729-9
 
@@ -102,6 +103,7 @@ Kellner, J. R., Armston, J., & Duncanson, L. (2023). Algorithmtheoreticalbasis d
 Silva, C. A., Duncanson, L., Hancock, S., Neuenschwander, A., Thomas, N., Hofton, M., Fatoyinbo, L., Simard, M., Marshak, C. Z., Armston, J., Lutchke, S., & Dubayah, R. (2021). FusingsimulatedGEDI, ICESat-2 and NISAR data forregional abovegroundbiomassmapping. Remote SensingofEnvironment, 253. https://doi.org/10.1016/j.rse.2020.112234
 
 Yuri Shendryk, Fusing GEDI with earth observation data for large areaaboveground biomass mapping, International Journal of Applied Earth Observation and Geoinformation, Volume 115, 2022, 103108,ISSN 1569 8432, https://doi.org/10.1016/j.jag.2022.103108
+
 
 
 ├── 📂presentation/ # diapostivas
