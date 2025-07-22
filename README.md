@@ -45,6 +45,7 @@ Amacayacu_Biomasa/
 ├── 📂data/ # Datos de entrada (raster, vector, GEDI, MapBiomas)
 
 ├── 📂notebooks/ # Jupyter Notebooks de análisis y modelado
+
      ├──📋AlosPalsar/ # Preprocesamiento imagenes ALOS PALSAR y función para calculo retrodispersión HH y HV
      ├──📋DEM/ # Cargar y visualizar Modelo Digital de Elevación
      ├──📋GEDI/ # Estimaciones de la densidad de biomasa aérea (AGBD) para el área de interes usando LiDAR
