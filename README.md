@@ -72,6 +72,7 @@ Amacayacu_Biomasa/
 
 ├── 📂results/ # mapas, graficas (GeoTIFF, PNG, CSV)
 
+
 ├── 📂docs/ # Referencias
 
       Afshari, S., Sarli, R., Alchin, A. A., Aliabad, O. G., Moradi, F., Saei, M., Lomer, A. R. B., & Nasiri, V. (2025). Trendanalysisand interactionsbetweensurfacetemperatureand vegetationcondition: divergentresponses acrossvegetationtypes. EnvironmentalMonitoringand Assessment, 197(3), 292. https://doi.org/10.1007/s10661-025-13729-9
@@ -92,7 +93,9 @@ Silva, C. A., Duncanson, L., Hancock, S., Neuenschwander, A., Thomas, N., Hofton
 
 Yuri Shendryk, Fusing GEDI with earth observation data for large areaaboveground biomass mapping, International Journal of Applied Earth Observation and Geoinformation, Volume 115, 2022, 103108,ISSN 1569 8432, https://doi.org/10.1016/j.jag.2022.103108
 
+
 ├── 📂presentation/ # diapostivas
+
 
 ├── README.md # Descripción del proyecto
 
